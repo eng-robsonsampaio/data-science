@@ -11,6 +11,7 @@ Private/
 
 # Large Files
 Hadoop_Spark/log.csv
+Hadoop_Spark/transformed_data/output.csv
 Hadoop_Spark/Books_rating.csv
 
 
